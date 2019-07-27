@@ -1,0 +1,330 @@
+html {
+    background: #F8F8F8;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    width: 100%;
+}
+
+.header {
+    font-family: 'Montserrat', sans-serif;
+    background: #0000;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    margin-left: 385px;
+    margin-top:10px;
+    color: #353535;
+    width: 60%;
+    
+    
+    
+}
+
+.header__title {
+    font-size: 42px;
+    width: 100%;
+    
+    
+    
+
+}
+
+.seredina {
+    display: flex;
+    width: 100%;
+}
+.seredina1 {
+    margin-top:10px;
+    height: 760px;
+    width: 925px;
+    display: flex;
+    background-image: url(../img/hero28.jpg);
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+    
+    
+    
+}
+
+.seredina2 {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #232323;
+    background-size: cover;
+    color: #F5F5F5;
+    width: 925px;
+    height: 760px;
+    padding-left: 115px;
+    font-size: 45px;
+    margin-top: 10px;
+    
+
+
+
+    
+    
+
+    
+}
+
+.lora {
+    font-family: 'Lora', serif;
+    font-size: 16px;
+}
+
+.blue {
+    background-color: #425CBB;
+    margin-top:0px;
+    width: 100%;
+    height: 460px;
+    color: #EBEEF8;
+    font-family: 'Lora', serif;
+    font-size: 16px;
+    display: flex;
+    
+
+    
+    
+}
+
+.blue1 {
+    margin-left: 355px; 
+    margin-top: 100px;
+    
+    background-repeat: no-repeat;
+    
+}
+
+.blue2 {
+    margin-left: 50px;
+    margin-top: 100px;
+}
+
+.blue3 {
+    margin-left: 50px;
+    margin-top: 100px;
+}
+
+.niz {
+    width: 100%;
+    height: 650px;
+    display: flex;
+
+}
+    
+
+
+
+.niz1 {
+    width: 925px;
+    background-color: #D6D6D6;
+    height: 617px;
+    font-size: 32px;
+    height: 650px;
+    
+   
+}
+
+.niz2 {
+    background-image: url(../img/hero29.jpg);
+    background-size: cover; 
+    background-repeat: no-repeat;
+    width: 50%;
+    height: 650px;
+   
+
+}
+
+.niz1text {
+    font-family: 'Lora', serif;
+    font-size: 16px;
+    margin-left: 360px;
+}
+
+.niz1htext {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-style: #343434;
+    margin-left: 360px;
+    margin-top: 200px;
+}
+
+
+
+.last {
+    display: flex;
+    width: 100%;
+    height: 520px;
+    background-color: #232323;
+}
+
+.last1 {
+    margin-left: 365px;
+    margin-top: 100px;
+    
+}
+
+.last1text {
+    font-family: 'Lora', serif;
+    font-size: 16px;
+    color: #E4E4E4;
+    margin-top: 35px;
+
+}
+
+.last1text2{
+    font-family: 'Lora', serif;
+    font-size: 16px;
+    color: #646363;
+    margin-top: 45px;
+    justify-content: left;
+}
+
+.last2 {
+    font-family: 'Lora', serif;
+    font-size: 16px;
+    margin-top: 75px;
+    margin-left: 85px;
+    color: #E4E4E4;
+}
+
+.last3 {
+    font-family: 'Lora', serif;
+    font-size: 16px;
+    color: #E4E4E4;
+    margin-top: 75px;
+    margin-left: 85px;
+}
+
+.end {
+    width: 100%;
+    height: 130px;
+    background-color: #1a1919;
+    font-family: 'Lora', serif;
+    font-size: 11px;
+    color: #7e7e7e;
+    margin-top: -17px;
+}
+
+
+.head1 {
+    display: inline;
+    font-family: 'Lora', serif;
+    font-size: 13px;
+    float: left;
+    margin: -20px 90px 0 0;
+    width: 100%;
+    word-spacing: 25px;
+    
+
+}
+
+.sv {
+    background-image: url(../img/Screenshot_15.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 100px;
+    margin-left: 5px;
+    
+
+}
+
+hr {
+    width: 100%;
+    justify-content: center;
+}
+
+li {
+    list-style: none;
+    padding: 0 0 10px 0;
+}
+
+li:hover {
+    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.5);
+}
+
+ul {
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #646363;
+    background-color: #0000;
+}
+
+.form input {
+	padding: 10px 15px;
+    margin-top: 10px;
+    width: 170px;
+    border-radius: 25px;
+    outline: none;
+    border: none;
+}
+
+.btn {
+    font-family: 'Lora', serif;
+	padding: 15px 0 15px 0;
+	margin: 30px 0 15px 5px;
+	background: none;
+	border: none;
+	color: rgb(0, 0, 0);
+	font-weight: bold;
+	background-color: #ffffff;
+	cursor: pointer;
+	border: 3px #ffffff solid;
+    border-radius: 5px;
+}
+
+.btn:hover {
+    box-shadow: 0 0 5px 0 rgb(0, 0, 0);
+}
+
+a:hover {
+    box-shadow: 0 0px 5px 0 rgba(0, 0, 0, 0.5);
+    border: 0px ;
+    
+}
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+font-family: 'Lora', serif;
+font-family: 'Montserrat', sans-serif;
+*/
